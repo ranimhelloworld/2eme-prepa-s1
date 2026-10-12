@@ -1,0 +1,64 @@
+div{
+    margin-top: 150px;
+    background-color: lightblue;
+    width: 30%;
+    height: 400px;
+  
+    border-radius: 2cm;
+}
+label{
+    justify-content: center;
+    display: flex;
+    margin-top: 40px;
+}
+body{
+    justify-content: center;
+    display: flex;
+    background-color: lightgoldenrodyellow;
+}
+#nom{
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(155, 87, 190);
+}
+#filiere{
+    border:solid lightpink;
+    border-width: 2px;
+    border-radius: 2cm;
+    padding: 5px 12px;
+    width:fit-content;
+    margin:auto;
+    margin-top: 20px;
+    background-color: lightcoral;
+}
+#annee{
+    color: rgb(53, 12, 40);
+    font-size: 20px;
+    border:solid rgb(183, 18, 43);
+    border-width: 2px;
+    border-radius: 2cm;
+    padding: 5px 12px;
+    width:fit-content;
+    margin:auto;
+    margin-top: 20px;
+}
+#statut{
+    color: rgb(240, 7, 7);
+    font-size: 22px;
+    text-decoration: underline;
+    font-style: italic;
+}
+#bourse{
+    color: rgb(74, 49, 158);
+    font-size: 15px;
+    font-weight: bold;
+    border:solid rgb(92, 67, 185);
+    border-width: 2px;
+    border-radius: 1cm;
+    padding: 5px 12px;
+    width:fit-content;
+    margin:auto;
+    margin-top: 20px;
+    background-color: lightseagreen;
+}
