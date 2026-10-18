@@ -1,4 +1,4 @@
-div{
+#information{
     margin-top: 150px;
     background-color:lightslategray;
     width: 30%;
@@ -61,4 +61,7 @@ body{
     margin:auto;
     margin-top: 20px;
     background-color: lightseagreen;
+}
+#footer{
+    margin-top:auto;
 }

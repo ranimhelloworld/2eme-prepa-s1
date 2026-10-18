@@ -35,12 +35,15 @@ switch ($filiere){
         $classeBadge = "badge-defaut";
         break; }
 ?>
-<div class="card">
+<div class="card" id="information">
         <label id="nom"><?= $nom ?></label><br>
         <label id="filiere"><?= $labelFiliere ?></label><br>
         <label id="annee">Année <?= $anneeEtude ?> — Moyenne: <?= $moyenne ?>/20</label><br>
         <label id="statut"><?= $statut  ?></label><br>
         <label id="bourse"><?= $estBoursier ?></label><br>
 </div>
+<div id="footer"><p>ranim bt</p></div>
+    
+
 </body>
 </html>
